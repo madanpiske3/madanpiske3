@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * **JavaScript**
 * **HTML**
 * **CSS**
+* **Tailwind CSS**
 
 ### Looking for Opportunities
 I'm actively seeking a front-end developer position to apply my skills and learn from experienced professionals. 
