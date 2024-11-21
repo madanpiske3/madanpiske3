@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Madan Piske 
-**Front-End Developer**
+**Front-End Developer**  | **Full-Stack Developer** | **React Developer** | **React Native Developer**
 ## Click Here 🔭 [My Portfolio](https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/)
 **A passionate full-stack developer | front-end developer | React and React Native Developer eager to contribute to innovative projects.**
 
