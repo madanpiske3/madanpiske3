@@ -1,5 +1,4 @@
-## Click Here 👇
-### [My Portfolio](https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/)
+
 <!--
 **madanpiske3/madanpiske3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +14,10 @@ Here are some ideas to get you started:
 
 
 -->
+
 # Madan Piske 
 **Front-End Developer**
-
+## Click Here 🔭 [My Portfolio](https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/)
 **A passionate front-end developer eager to contribute to innovative projects.**
 
 ### Skills
@@ -27,9 +27,12 @@ Here are some ideas to get you started:
 * **HTML**
 * **CSS**
 * **Tailwind CSS**
+* **TypeScript**
+* **Python**
+* **Node.js**
 
 ### Looking for Opportunities
-I'm actively seeking a front-end developer position to apply my skills and learn from experienced professionals. 
+I'm actively seeking a full-stack developer position to apply my skills and learn from experienced professionals. 
 
 **Let's connect!** 
 * **Email     :** madanpiske14@gmail.com
