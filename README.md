@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 * **TypeScript**
 * **Python**
 * **Node.js**
+* **Next.js**
 
 ### Looking for Opportunities
 I'm actively seeking a full-stack developer position to apply my skills and learn from experienced professionals. 
