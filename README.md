@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 * **TypeScript**
 * **Python**
 * **Node.js**
+* **Express.js**
 * **Next.js**
 
 ### Looking for Opportunities
