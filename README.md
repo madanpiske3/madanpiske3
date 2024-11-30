@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 I'm actively seeking a full-stack developer position to apply my skills and learn from experienced professionals. 
 
 **Let's connect!** 
-* **Email     :** madanpiske14@gmail.com
+* **Email     :** madanpiske14@gmail.com  |  madanpiske1729@gmail.com
 * **Contact No:** +91-8329422904
 
 **Feel free to explore my repositories and reach out for collaborations.**
