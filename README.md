@@ -46,7 +46,7 @@ I'm actively seeking a full-stack developer position to apply my skills and lear
 
 
 
-**My portpolio project using Next.js**
+# **My portpolio project using Next.js**
 
 ![portpolio-pro-screenshot](https://github.com/user-attachments/assets/1ece9684-2602-4202-9127-73c7101c9262)
 
