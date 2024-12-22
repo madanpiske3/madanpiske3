@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-**Front-End Developer**  | **Full-Stack Developer** | **React Developer** | **React Native Developer**
-
+<!--
+**Front-End Developer**  | **Full-Stack Developer** | **React Developer** | **React Native Developer | NextJs | MERN | React | React Native**
 -->
+**| NextJs | MERN | React | React Native |**
 
 # Madan Piske 
 ## Click Here 🔭 [My Portfolio](https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/)
@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 ### Skills
 * **React**
 * **React Native**
-* **JavaScript**
-* **HTML**
-* **CSS**
 * **Tailwind CSS**
 * **TypeScript**
 * **Python**
 * **Node.js**
 * **Express.js**
 * **Next.js**
+* **JavaScript**
+* **HTML**
+* **CSS**
 
 ### Looking for Opportunities
 I'm actively seeking a full-stack developer position to apply my skills and learn from experienced professionals. 
@@ -49,5 +49,6 @@ I'm actively seeking a full-stack developer position to apply my skills and lear
 **My portpolio project using Next.js**
 
 ![portpolio-pro-screenshot](https://github.com/user-attachments/assets/1ece9684-2602-4202-9127-73c7101c9262)
+
 
 
