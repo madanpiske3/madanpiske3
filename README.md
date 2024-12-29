@@ -28,14 +28,10 @@ Here are some ideas to get you started:
 React - ![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
 React - ![3 Stars](https://img.shields.io/badge/React-Native-★★★★★-brightgreen)
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/shorts/bQMkm-UV454" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+<video width="640" height="360" controls>
+  <source src="https://youtu.be/EF6fqnnl3Uk?si=v3DXL_cmh8GmDvVx" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <table>
   <tr>
