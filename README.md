@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-pink)
 
-React - ![5 Stars](https://img.shields.io/badge/Rating-★★★★★-brightgreen)
+React - ![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
+React - ![3 Stars](https://img.shields.io/badge/React-Native-★★★★★-brightgreen)
 
 
 ### Resume
