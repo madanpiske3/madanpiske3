@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-pink)
 
+React - ![5 Stars](https://img.shields.io/badge/Rating-★★★★★-brightgreen)
+
+
 ### Resume
 <embed src="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" width="800px" height="600px" />
 
