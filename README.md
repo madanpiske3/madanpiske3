@@ -28,6 +28,21 @@ Here are some ideas to get you started:
 React - ![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
 React - ![3 Stars](https://img.shields.io/badge/React-Native-★★★★★-brightgreen)
 
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Supported</th>
+  </tr>
+  <tr>
+    <td>HTML in README</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Interactive Forms</td>
+    <td>✅</td>
+  </tr>
+</table>
+
 
 ### Resume
 <embed src="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" width="800px" height="600px" />
