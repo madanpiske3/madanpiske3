@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Resume
 <embed src="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" width="800px" height="600px" />
 
-<p style="color: pink; font-size: 20px;">This text is styled.</p>
+<p style="color: blue; font-size: 20px;">This text is styled.</p>
 
 ### Skills
 * **React**
