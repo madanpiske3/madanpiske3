@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3.9-pink)
 
 React - ![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
-React - ![3 Stars](https://img.shields.io/badge/React-Native-★★★★★-brightgreen)
-
+<!--
 <video width="640" height="360" controls>
   <source src="https://youtu.be/EF6fqnnl3Uk?si=v3DXL_cmh8GmDvVx" type="video/mp4">
   Your browser does not support the video tag.
@@ -57,6 +56,7 @@ React - ![3 Stars](https://img.shields.io/badge/React-Native-★★★★★-bri
 <div style="background-color: #f8f9fa; padding: 10px; border: 1px solid #ddd;">
   This is a highlighted box.
 </div>
+-->
 
 
 ### Skills
