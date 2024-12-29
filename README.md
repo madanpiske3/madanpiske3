@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-pink)
-
-React - ![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
+![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
 <!--
 <video width="640" height="360" controls>
   <source src="https://youtu.be/EF6fqnnl3Uk?si=v3DXL_cmh8GmDvVx" type="video/mp4">
@@ -78,6 +77,10 @@ I'm actively seeking a full-stack developer position to apply my skills and lear
 **Let's connect!** 
 * **Email     :** madanpiske14@gmail.com  |  madanpiske1729@gmail.com
 * **Contact No:** +91-8329422904
+
+## Contact Information
+For questions or feedback, contact me at [email@example.com](mailto:email@example.com).
+
 
 **Feel free to explore my repositories and reach out for collaborations.**
 
