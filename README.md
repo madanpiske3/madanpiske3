@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 **A passionate full-stack developer | front-end developer | React and React Native Developer eager to contribute to innovative projects.**
 -->
 
+### Resume
+<embed src="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" width="800px" height="600px" />
+
 ### Skills
 * **React**
 * **React Native**
