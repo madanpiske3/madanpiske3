@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 <p style="color: blue; font-size: 20px;">This text is styled.</p>
 
+<div style="background-color: #f8f9fa; padding: 10px; border: 1px solid #ddd;">
+  This is a highlighted box.
+</div>
+
+
 ### Skills
 * **React**
 * **React Native**
