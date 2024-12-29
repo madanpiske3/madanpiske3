@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--
 **A passionate full-stack developer | front-end developer | React and React Native Developer eager to contribute to innovative projects.**
 -->
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
-![Python](https://img.shields.io/badge/Python-3.9-green)
+![Python](https://img.shields.io/badge/Python-3.9-pink)
 
 ### Resume
 <embed src="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" width="800px" height="600px" />
