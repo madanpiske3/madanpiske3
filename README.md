@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 **A passionate full-stack developer | front-end developer | React and React Native Developer eager to contribute to innovative projects.**
 -->
 ![Age](https://img.shields.io/badge/Age-21-gold)
+![Projects](https://img.shields.io/badge/made-61-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-pink)
