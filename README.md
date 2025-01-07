@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.5-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-pink)
-![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
 <!--
+![3 Stars](https://img.shields.io/badge/React-★★★★★-brightgreen)
 <video width="640" height="360" controls>
   <source src="https://youtu.be/EF6fqnnl3Uk?si=v3DXL_cmh8GmDvVx" type="video/mp4">
   Your browser does not support the video tag.
