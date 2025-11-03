@@ -70,3 +70,13 @@ I welcome discussions on modern mobile architecture, complex scaling challenges,
 * **Contact No** : +91-8329422904
 
 *Feel free to explore my repositories and reach out for collaborations.*
+
+
+![Mobile God](https://img.shields.io/badge/Mobile_Architecture_God-404040?style=for-the-badge&logo=github&logoColor=white)
+
+![Portfolio Link](https://img.shields.io/badge/My_Portfolio-Visit_Now-0077B6?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+
+
