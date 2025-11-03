@@ -17,10 +17,24 @@ Here are some ideas to get you started:
 **| NextJs | MERN | React | React Native |**
 :rocket: :tada: :smile: :fire:
 # Madan Piske 
+### 🚀 Mobile Developer Skillset
+
+#### Core Frameworks & Languages
 ![React Native](https://img.shields.io/badge/React_Native-100/100-success)
 ![React](https://img.shields.io/badge/React-70/100-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-gold)
+![TypeScript](https://img.shields.io/badge/TypeScript-75/100-blueviolet)
+
+#### Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-70/100-green)
-![React Native](https://img.shields.io/badge/React_Native-100/100-success)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-85/100-orange)
+![Firebase](https://img.shields.io/badge/Firebase-60/100-yellow)
+
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/Git_&_GitHub-95/100-red)
+![CI/CD](https://img.shields.io/badge/CI/CD-50/100-lightgrey)
+![Testing](https://img.shields.io/badge/Unit_Testing-65/100-critical)
+![Agile](https://img.shields.io/badge/Agile_&_Scrum-80/100-informational)
 ## Click Here 🔭 [My Portfolio](https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/)
 <!--
 **A passionate full-stack developer | front-end developer | React and React Native Developer eager to contribute to innovative projects.**
