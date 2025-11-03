@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 :rocket: :tada: :smile: :fire:
 # Madan Piske 
 ![React Native](https://img.shields.io/badge/React_Native-100/100-success)
+![React](https://img.shields.io/badge/React-70/100-blue)
+![Node.js](https://img.shields.io/badge/Node.js-70/100-green)
+![React Native](https://img.shields.io/badge/React_Native-100/100-success)
 ## Click Here 🔭 [My Portfolio](https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/)
 <!--
 **A passionate full-stack developer | front-end developer | React and React Native Developer eager to contribute to innovative projects.**
