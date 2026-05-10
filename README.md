@@ -5,7 +5,7 @@
   <a href="https://personal-portfolio-git-main-godcodeds-projects-19c4b414.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Architect-Click_to_View-red?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-Lead%20Role-brightgreen?style=for-the-badge" alt="Hiring Status">
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-Lead%20Role-brightgreen?style=for-the-badge" alt="Open to work">
 </p>
 
 ---
