@@ -1,4 +1,11 @@
 <h1 align="center">Madan Piske 🔱</h1>
+
+<p align="center">
+  <a href="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" target="_blank">
+    <img src="https://shields.io" alt="Resume">
+  </a>
+</p>
+
 <h3 align="center">Mobile Architecture & Full-Stack Mastery</h3>
 
 <p align="center">
@@ -15,11 +22,7 @@
 
 This section outlines my verifiable, production-grade experience across the full development lifecycle.
 
-<p align="center">
-  <a href="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" target="_blank">
-    <img src="https://shields.io" alt="Resume">
-  </a>
-</p>
+
 
 
 #### 📱 Mobile & Front-End Architecture
