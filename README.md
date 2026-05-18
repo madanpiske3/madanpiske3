@@ -9,6 +9,10 @@
 </p>
 
 ---
+<h1>
+<a href="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" />  
+</h1>
+
 
 ### 🚀 Core Expertise & Skill Mastery
 
