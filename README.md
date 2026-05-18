@@ -9,17 +9,18 @@
 </p>
 
 ---
-<h1>
-  <title>
-    Resume
-  </title>
-<a href="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" />  
-</h1>
 
 
 ### 🚀 Core Expertise & Skill Mastery
 
 This section outlines my verifiable, production-grade experience across the full development lifecycle.
+
+<p align="center">
+  <a href="https://github.com/madanpiske3/assets/blob/main/Madan_Piske.pdf" target="_blank">
+    <img src="https://shields.io" alt="Resume">
+  </a>
+</p>
+
 
 #### 📱 Mobile & Front-End Architecture
 ![React Native](https://img.shields.io/badge/React_Native-100/100-success)
